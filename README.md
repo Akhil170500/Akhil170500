@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akhil170500
+- 👋 Hi, I’m Akhil
 - 👀 I’m interested in web development
 - 🌱 I’m currently pursuing BE (Information Technology)
 - 💞️ From Ponda Goa
